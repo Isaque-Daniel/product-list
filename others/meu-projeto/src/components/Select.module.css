@@ -1,0 +1,13 @@
+.select_control{
+    width: 100%;
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.select_control select{
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: .7em 1em;
+}

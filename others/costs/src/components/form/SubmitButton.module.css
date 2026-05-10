@@ -1,0 +1,24 @@
+.btn_control{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: 0.7em;
+    width: 100%;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    color: #ffbb33;
+}

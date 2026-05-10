@@ -1,0 +1,48 @@
+{
+  "projetos": [
+    {
+      "id": "495e",
+      "name": "Isaque",
+      "password": "34823486",
+      "profession": {
+        "id": "2",
+        "name": "Front-End"
+      },
+      "salary": 8000,
+      "rate": "5/5"
+    },
+    {
+      "id": "7f8c",
+      "name": "Danielle",
+      "password": "3495989safnajf",
+      "profession": {
+        "id": "4",
+        "name": "Manager"
+      },
+      "salary": 12000,
+      "rate": "5/5"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Hacker"
+    },
+    {
+      "id": "2",
+      "name": "Front-End"
+    },
+    {
+      "id": "3",
+      "name": "Designer"
+    },
+    {
+      "id": "4",
+      "name": "Manager"
+    },
+    {
+      "id": "5",
+      "name": "Back-End"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "json.validate.enable": false,
+    "json.format.enable": true,
+    "files.associations": {
+        "data.json": "jsonc"
+    }
+}

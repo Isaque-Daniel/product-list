@@ -1,0 +1,13 @@
+body{
+  background-color: #efefef;
+}
+
+h3{
+  color: blue;
+}
+
+p{
+  padding: 10px;
+  background-color: #999;
+  color: #fff;
+}

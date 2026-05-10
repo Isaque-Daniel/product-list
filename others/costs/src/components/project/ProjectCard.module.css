@@ -1,0 +1,94 @@
+.project_card{
+    border: 1px solid #7a7a7a;
+    border-top: none;
+    border-radius: 5px;
+    width: 24%;
+    margin: 0.5%;
+}
+
+.project_card h4{
+    background-color: #222;
+    color: #ffbb33;
+    padding: .4em;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+}
+
+.project_card_secundary{
+    padding: 1em;
+    width: 100%;
+}
+
+
+.project_card_secundary p {
+    color: #7a7a7a;
+    margin-bottom: 1em;
+}
+
+.project_card_secundary p span{
+    font-weight: bold;
+}
+
+.project_card_secundary_actions{
+    margin-top: 1.2em;
+    display: flex;
+    align-items: center;
+    /* gap: 1em; */
+    justify-content: space-around;
+}
+
+.project_card_secundary_actions a,
+.project_card_secundary_actions button{
+    text-decoration: none;
+    border: none;
+    background-color: #faf8f8;
+    color: #222;
+    font-size: .9em;
+    padding: .6em 1em;
+    cursor: pointer;
+    /* margin-right: 1em; */
+    border: 1px solid #222;
+    display: flex;
+    gap: .5em;
+    align-items: center;
+    justify-content: center;
+    transition: .5s;
+    border-radius: 5px;
+}
+
+.project_card_secundary_actions a:hover,
+.project_card_secundary_actions button:hover{
+    background-color: #222;
+    color: #ffbb33;
+}
+
+.profession_text{
+    display: flex;
+    align-items: center;
+}
+
+.profession_text span{
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #CCC;
+    margin-right: 5px;
+}
+
+.profession_text .infra{
+    background-color: #ffaebc;
+}
+.profession_text .desenvolvimento{
+    background-color: #a0e7e5;
+    
+}
+.profession_text .desgin{
+    background-color: #b4f8c8;
+    
+}
+.profession_text .planejamento{
+    background-color: #fbe7c6;
+
+}

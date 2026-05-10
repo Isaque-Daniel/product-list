@@ -1,0 +1,17 @@
+.fraseContainer{
+    background-color: #333;
+    border: 1px solid #111;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+.fraseContent{
+    color: #fff;
+    background-color: #111;
+    margin: 0;
+    width: 60%;
+}
